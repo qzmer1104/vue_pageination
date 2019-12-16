@@ -1,21 +1,49 @@
 {
-  "name": "vue_pageination",
-  "version": "1.0.9",
-  "main": "pageination.js",
+  "_from": "vue_pageination",
+  "_id": "vue_pageination@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-AvH907GO1Ax66/e+uANJr1XXfKg=",
+  "_location": "/vue_pageination",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue_pageination",
+    "name": "vue_pageination",
+    "escapedName": "vue_pageination",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/vue_pageination/download/vue_pageination-1.1.2.tgz",
+  "_shasum": "02f1fdd3b18ed40c7aebf7beb80349af55d77ca8",
+  "_spec": "vue_pageination",
+  "_where": "/Users/quzhimin/WebstormProjects/mogufe/qzm",
+  "author": {
+    "name": "qzmer1104"
+  },
+  "bugs": {
+    "url": "https://github.com/317482454/vue_pageination/issues/new"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
   "description": "vue2.0分页",
+  "devDependencies": {},
+  "homepage": "https://github.com/317482454/vue_pageination",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vue_pageination2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/317482454/vue_pageination.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "repository": {
-    "type": "git",
-    "url": "https://github.com/317482454/vue_pageination"
-  },
-  "homepage": "https://github.com/317482454/vue_pageination",
-   "bugs": {
-    "url": "https://github.com/317482454/vue_pageination/issues/new"
-  },
-  "dependencies": {},
-  "devDependencies": {},
-  "author": "317482454",
-  "license": "MIT"
+  "version": "1.1.3"
 }

@@ -2,11 +2,11 @@ vue分页控件
 [在线DEMO](http://jqvue.com/demo/vue_pageination/index.html "悬停显示")  
 ----------
 
-    npm i vue_pageination --save
+    npm i vue_pageination3 --save
 
 vue：
 
-    import pageination from 'vue_pageination';
+    import pageination from 'vue_pageination3';
     Vue.use(pageination);
 
 ----------
